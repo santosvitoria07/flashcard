@@ -10,15 +10,15 @@ display:flex ;
 
 .cartao {
 margin: 1rem 1rem;
-background-color: aqua;
+background-color: rgb(134, 241, 227);
 height: 20rem;
 flex-grow: 1;
 flex-basis: calc(33% -6rem);
 }
 
 footer {
-background-color: rgb(216, 153, 153);
-color: rgb(97, 94, 94);
+background-color: rgb(230, 123, 123);
+color: rgb(182, 73, 225);
 bottom:0;
 position:fixed;
 width:100%;
