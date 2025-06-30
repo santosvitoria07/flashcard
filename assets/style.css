@@ -10,19 +10,19 @@ display:flex ;
 
 .cartao {
 margin: 1rem 1rem;
-background-color: rgb(134, 241, 227);
+background-color: rgb(13, 27, 233);
 height: 20rem;
 flex-grow: 1;
 flex-basis: calc(33% -6rem);
 }
 .cartao__conteudo h3 {
-background-color: tomato;
+background-color: rgb(97, 19, 5);
 text-align: left;
 padding: 0.5rem;
 }
 footer {
-background-color: rgb(230, 123, 123);
-color: rgb(182, 73, 225);
+background-color: rgb(234, 103, 103);
+color: rgb(183, 79, 224);
 bottom:0;
 position:fixed;
 width:100%;
