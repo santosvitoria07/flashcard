@@ -1,14 +1,14 @@
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'matriz africana',
+    'O que é a Umbanda e no que acreditam?',
+    'Os principais conceitos são como os da doutrina espírita, como a reencarnação'
 )
 
 criaCartao(
     'Historia',
-    'Quam foi Amina zazzau',
-    'A capital da França é Paris'
+    'Quam foi Amina zazzau?',
+    'foi uma rainha guerreira do século XVI '
 )
 
 criaCartao(
